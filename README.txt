@@ -1,4 +1,8 @@
 Data used from: https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints
+Face bounds were taken from dlib's frontal face detector, which is what this is intended to be used with.
+
+Training MAE: 1.40
+Testing MAE: 1.46
 
 Training parameters:
 
